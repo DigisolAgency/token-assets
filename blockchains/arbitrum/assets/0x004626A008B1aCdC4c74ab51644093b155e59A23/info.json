@@ -3,7 +3,7 @@
   "website": "https://www.angle.money/",
   "description": "stEUR is a Euro savings solution built on top of EURA by the Angle Protocol.",
   "explorer": "https://arbiscan.io/token/0x004626A008B1aCdC4c74ab51644093b155e59A23",
-  "type": "ARBITRUM",
+  "type": "ERC20",
   "symbol": "stEUR",
   "decimals": 18,
   "status": "active",

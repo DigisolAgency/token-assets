@@ -1,6 +1,6 @@
 {
     "name": "Dai Stablecoin",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "DAI",
     "decimals": 18,
     "website": "https://tether.to/",

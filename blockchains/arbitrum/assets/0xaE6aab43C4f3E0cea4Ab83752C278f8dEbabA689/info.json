@@ -1,6 +1,6 @@
 {
     "name": "dForce",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "DF",
     "decimals": 18,
     "website": "http://dforce.network/",

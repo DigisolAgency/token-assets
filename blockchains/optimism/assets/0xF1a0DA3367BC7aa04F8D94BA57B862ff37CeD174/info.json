@@ -1,7 +1,7 @@
 {
     "name": "Shapeshift FOX",
     "symbol": "FOX",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "decimals": 18,
     "description": "FOX is ShapeShift’s official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). ",
     "website": "https://shapeshift.com/fox-token",

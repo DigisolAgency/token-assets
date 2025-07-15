@@ -7,7 +7,7 @@
     "decimals": 18,
     "status": "active",
     "id": "0xdDb46999F8891663a8F2828d25298f70416d7610",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "links": [
         {
             "name": "twitter",

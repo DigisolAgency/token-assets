@@ -1,6 +1,6 @@
 {
   "name": "Aethir",
-  "type": "ARBITRUM",
+  "type": "ERC20",
   "symbol": "ATH",
   "website": "https://www.aethir.com/",
   "explorer": "https://arbiscan.io/token/0xc87b37a581ec3257b734886d9d3a581f5a9d056c",

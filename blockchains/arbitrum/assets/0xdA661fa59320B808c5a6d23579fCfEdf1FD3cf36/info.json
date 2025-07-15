@@ -3,7 +3,7 @@
     "website": "https://mobox.io",
     "description": "An Optimized Yield-Farming platform combining the best of DeFi and Gaming NFTs. Creating a truly Free To Play Play To Earn Ecosystem on the Binance Smart Chain",
     "explorer": "https://arbiscan.io/token/0xdA661fa59320B808c5a6d23579fCfEdf1FD3cf36",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "MBOX",
     "decimals": 18,
     "status": "active",

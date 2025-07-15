@@ -3,7 +3,7 @@
     "website": "https://synapseprotocol.com/",
     "description": "Synapse is a cross-chain layer ∞ protocol powering interoperability between blockchains.",
     "explorer": "https://arbiscan.io/token/0x080f6aed32fc474dd5717105dba5ea57268f46eb",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "SYN",
     "decimals": 18,
     "status": "active",

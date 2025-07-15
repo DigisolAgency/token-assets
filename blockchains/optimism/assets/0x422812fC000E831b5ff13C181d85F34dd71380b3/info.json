@@ -1,6 +1,6 @@
 {
     "name": "Miracleplay",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "symbol": "MPT",
     "decimals": 18,
     "website": "https://miracleplay.gg/",

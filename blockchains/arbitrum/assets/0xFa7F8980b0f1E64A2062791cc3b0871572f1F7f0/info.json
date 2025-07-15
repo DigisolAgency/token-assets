@@ -4,7 +4,7 @@
     "description": "UNI is the Uniswap protocol token. Uniswap is a decentralized protocol for automated liquidity provision on Ethereum.",
     "explorer": "https://arbiscan.io/token/0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
     "research": "https://research.binance.com/en/projects/uniswap",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "UNI",
     "decimals": 18,
     "status": "active",

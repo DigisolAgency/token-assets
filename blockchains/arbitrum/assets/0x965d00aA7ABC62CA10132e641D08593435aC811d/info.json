@@ -1,6 +1,6 @@
 {
     "name": "KAP Games",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "KAP",
     "decimals": 18,
     "website": "https://about.kap.gg/",

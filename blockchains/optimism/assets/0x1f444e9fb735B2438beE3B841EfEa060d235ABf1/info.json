@@ -1,6 +1,6 @@
 {
     "name": "Opulous",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "symbol": "OPUL",
     "website": "https://opulous.org/",
     "decimals": 18,

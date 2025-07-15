@@ -1,6 +1,6 @@
 {
     "name": "OpenX Optimism",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "symbol": "OpenX",
     "decimals": 18,
     "website": "https://app.openxswap.exchange/info",

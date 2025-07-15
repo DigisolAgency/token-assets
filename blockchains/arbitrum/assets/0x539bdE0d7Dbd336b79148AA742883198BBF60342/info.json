@@ -1,7 +1,7 @@
 {
     "name": "MAGIC",
     "symbol": "MAGIC",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "decimals": 18,
     "description": "MAGIC is the utility token that connects gaming communities in the Treasure Metaverse: a decentralized NFT ecosystem which sits on Arbitrum, one of Ethereum’s Layer 2 scaling solutions.",
     "website": "https://treasure.lol/",

@@ -1,6 +1,6 @@
 {
     "name": "EdgeMatrix Computing network",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "EMC",
     "decimals": 18,
     "website": "https://edgematrix.pro/",

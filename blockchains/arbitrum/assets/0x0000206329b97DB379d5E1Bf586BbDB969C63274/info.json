@@ -3,7 +3,7 @@
   "website": "https://www.angle.money/",
   "description": "USDA is an over-collateralized and decentralized USD stablecoin by the Angle Protocol.",
   "explorer": "https://arbiscan.io/token/0x0000206329b97DB379d5E1Bf586BbDB969C63274",
-  "type": "ARBITRUM",
+  "type": "ERC20",
   "symbol": "USDA",
   "decimals": 18,
   "status": "active",

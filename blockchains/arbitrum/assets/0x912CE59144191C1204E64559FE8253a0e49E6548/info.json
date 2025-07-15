@@ -1,6 +1,6 @@
 {
     "name": "Arbitrum",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "ARB",
     "decimals": 18,
     "website": "https://arbitrum.foundation/",

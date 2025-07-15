@@ -1,7 +1,7 @@
 {
     "name": "ChainBounty",
     "symbol": "BOUNTY",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "decimals": 18,
     "description": "ChainBounty is a Web3 platform where cybercrime victims post bounties to crowdsource investigations.It uses 'Bounty' tokens for transactions, incentivizing private investigators to resolve cases. This decentralized approach offers a faster, transparent solution for online crimes",
     "website": "https://chainbounty.io",

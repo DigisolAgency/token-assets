@@ -1,6 +1,6 @@
 {
     "name": "Axelar Wrapped USDC",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "symbol": "axlUSDC",
     "decimals": 6,
     "website": "https://axelar.network/",

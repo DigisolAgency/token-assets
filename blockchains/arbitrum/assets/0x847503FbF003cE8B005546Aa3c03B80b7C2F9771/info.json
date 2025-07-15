@@ -1,6 +1,6 @@
 {
     "name": "Byte",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "BYTE",
     "decimals": 9,
     "website": "https://www.bytedog.ai/",

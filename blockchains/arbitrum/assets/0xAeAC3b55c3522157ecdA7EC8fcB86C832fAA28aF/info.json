@@ -1,7 +1,7 @@
 {
     "name": "XYRO",
     "symbol": "XYRO",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "decimals": 18,
     "description": "XYRO is an AI-powered gamified trading platform that leverages gamification and social features to redefine crypto, making it accessible and engaging.",
     "website": "https://xyro.io/",

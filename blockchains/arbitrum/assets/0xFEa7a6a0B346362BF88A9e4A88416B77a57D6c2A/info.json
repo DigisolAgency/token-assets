@@ -3,7 +3,7 @@
     "website": "https://abracadabra.money/",
     "description": "MIM is a stablecoin backed by interest bearing collateral",
     "explorer": "https://arbiscan.io/token/0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "MIM",
     "decimals": 18,
     "status": "active",

@@ -1,7 +1,7 @@
 {
     "name": "UXLINK",
     "symbol": "UXLINK",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "decimals": 18,
     "description": "UXLINK is a web3 social platform and infrastructure for users and developers to discover, distribute, and trade crypto assets in a unique social and group-based manner.",
     "website": "https://www.uxlink.io/",

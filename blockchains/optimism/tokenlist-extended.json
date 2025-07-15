@@ -5,7 +5,7 @@
     "tokens": [
         {
             "asset": "c10000070_t0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
-            "type": "OPTIMISM",
+            "type": "ERC20",
             "address": "0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
             "name": "BitANT",
             "symbol": "BitANT",
@@ -14,7 +14,7 @@
         },
         {
             "asset": "c10000070_t0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
-            "type": "OPTIMISM",
+            "type": "ERC20",
             "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
             "name": "Lyra Finance",
             "symbol": "LYRA",
@@ -23,7 +23,7 @@
         },
         {
             "asset": "c10000070_t0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
-            "type": "OPTIMISM",
+            "type": "ERC20",
             "address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
             "name": "Rocket Pool ETH",
             "symbol": "rETH",
@@ -32,7 +32,7 @@
         },
         {
             "asset": "c10000070_t0xffD27b572246f35c992EfB28DD8cB730b93Ed301",
-            "type": "OPTIMISM",
+            "type": "ERC20",
             "address": "0xffD27b572246f35c992EfB28DD8cB730b93Ed301",
             "name": "Rubicon",
             "symbol": "Rubicon",
@@ -41,7 +41,7 @@
         },
         {
             "asset": "c10000070_t0x4200000000000000000000000000000000000042",
-            "type": "OPTIMISM",
+            "type": "ERC20",
             "address": "0x4200000000000000000000000000000000000042",
             "name": "Optimism",
             "symbol": "OP",

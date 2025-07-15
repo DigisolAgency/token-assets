@@ -1,6 +1,6 @@
 {
     "name": "Real World Assetss",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "RWAS",
     "decimals": 18,
     "website": "https://www.rwa-finance.com/#/",

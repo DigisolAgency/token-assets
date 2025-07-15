@@ -1,6 +1,6 @@
 {
     "name": "USD Coin (Bridged from Ethereum)",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "symbol": "USDC.e",
     "decimals": 6,
     "website": "https://www.centre.io/",

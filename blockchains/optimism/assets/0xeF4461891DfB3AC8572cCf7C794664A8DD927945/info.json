@@ -1,6 +1,6 @@
 {
     "name": "WalletConnect",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "symbol": "WCT",
     "decimals": 18,
     "website": "https://walletconnect.network/",

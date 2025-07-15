@@ -1,6 +1,6 @@
 {
     "name": "SHARBI",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "SHARBI",
     "decimals": 9,
     "website": "https://sharbi.net/",

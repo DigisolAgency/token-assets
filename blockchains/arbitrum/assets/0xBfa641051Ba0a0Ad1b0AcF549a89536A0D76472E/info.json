@@ -3,7 +3,7 @@
     "website": "https://badger.finance/",
     "description": "DAO dedicated to building products and infrastructure to bring Bitcoin to DeFi.",
     "explorer": "https://arbiscan.io/token/0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "BADGER",
     "decimals": 18,
     "status": "active",

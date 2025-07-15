@@ -1,6 +1,6 @@
 {
     "name": "Deep Blue USD",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "DBUSD",
     "decimals": 6,
     "website": "https://www.deepblue.to/",

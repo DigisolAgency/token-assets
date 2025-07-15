@@ -1,6 +1,6 @@
 {
     "name": "Okcash",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "OK",
     "decimals": 18,
     "website": "https://okcash.co",

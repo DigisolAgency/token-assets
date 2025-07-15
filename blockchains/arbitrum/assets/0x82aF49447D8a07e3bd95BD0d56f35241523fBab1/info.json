@@ -1,6 +1,6 @@
 {
     "name": "Wrapped Ether",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "WETH",
     "decimals": 18,
     "website": "https://weth.io/",

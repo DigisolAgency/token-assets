@@ -3,7 +3,7 @@
     "website": "https://kwenta.eth.limo/",
     "description": "Kwenta is a decentralized derivatives trading platform built on the Ethereum network.",
     "explorer": "https://optimistic.etherscan.io/token/0x920Cf626a271321C151D027030D5d08aF699456b",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "symbol": "KWENTA",
     "decimals": 18,
     "status": "active",

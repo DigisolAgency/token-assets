@@ -1,7 +1,7 @@
 {
     "name": "Fluidity",
     "symbol": "FLY",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "decimals": 18,
     "description": "Fluidity Money (FLY) powers Fluidity Money tokens (Fluid Assets) including fUSDC. Fluid Assets are a 1-to-1 wrapped asset that expose holders to randomly paid rewards when they use their cryptocurrencies.",
     "website": "https://www.fluidity.money",

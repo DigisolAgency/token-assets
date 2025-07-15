@@ -3,7 +3,7 @@
     "website": "https://www.marlin.pro/",
     "description": "Marlin is an open protocol that provides a high-performance programmable network infrastructure for Web 3.0",
     "explorer": "https://arbiscan.io/token/0xda0a57b710768ae17941a9fa33f8b720c8bd9ddd",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "POND",
     "decimals": 18,
     "status": "active",

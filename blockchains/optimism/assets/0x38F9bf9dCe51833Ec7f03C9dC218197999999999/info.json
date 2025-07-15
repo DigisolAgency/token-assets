@@ -1,6 +1,6 @@
 {
     "name": "Nya",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "symbol": "NYA",
     "decimals": 18,
     "website": "https://www.nya.vip",

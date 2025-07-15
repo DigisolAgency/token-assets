@@ -1,6 +1,6 @@
 {
     "name": "USD Coin",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "symbol": "USDC",
     "decimals": 6,
     "website": "https://www.centre.io/",

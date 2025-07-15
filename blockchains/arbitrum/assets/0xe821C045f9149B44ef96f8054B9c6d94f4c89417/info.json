@@ -3,7 +3,7 @@
     "website": "https://dovu.earth/",
     "description": "DOVU is a technology infrastructure provider, powering trusted environmental and carbon digital markets by providing market integrity. The DOVU token serves as the protocol’s utility token, enabling holders to participate and create their own environmental audit trail ecosystems. Token holders can stake their DOVU to earn multiplier rewards, aligning long-term incentives with the protocol’s mission of building reliable carbon markets.",
     "explorer": "https://arbiscan.io/token/0xe821C045f9149B44ef96f8054B9c6d94f4c89417",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "DOVU",
     "decimals": 8,
     "status": "active",

@@ -3,7 +3,7 @@
     "website": "https://app.openxswap.exchange/PerpetualBonds",
     "description": "opxveVELO is an algorithmic synthetic currency pegged to the price of VELO that tokenizes the value of our veVELO position. It is the receipt-token issued for perpetually bonded VELO.",
     "explorer": "https://optimistic.etherscan.io/token/0x46f21fda29f1339e0ab543763ff683d399e393ec",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "symbol": "opxveVELO",
     "decimals": 18,
     "status": "active",

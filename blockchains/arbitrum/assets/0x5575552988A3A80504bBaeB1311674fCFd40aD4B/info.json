@@ -1,7 +1,7 @@
 {
     "name": "Sperax",
     "symbol": "SPA",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "decimals": 18,
     "description": "A project that aims to provide decentralized financial services for all with its original BDLS consensus protocol and a dual stablecoin system.",
     "website": "https://sperax.io/",

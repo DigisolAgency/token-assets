@@ -3,7 +3,7 @@
     "website": "https://worldcoin.org/",
     "description": "The Worldcoin system revolves around World ID, a privacy-preserving global identity network. World ID enables users to verify their humanness online (`Proof of Personhood`) while maintaining their privacy through zero-knowledge proofs.",
     "explorer": "https://optimistic.etherscan.io/token/0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "symbol": "WLD",
     "decimals": 18,
     "status": "active",

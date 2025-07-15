@@ -1,6 +1,6 @@
 {
     "name": "Wrapped BTC",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "WBTC",
     "decimals": 8,
     "website": "https://wbtc.network/",

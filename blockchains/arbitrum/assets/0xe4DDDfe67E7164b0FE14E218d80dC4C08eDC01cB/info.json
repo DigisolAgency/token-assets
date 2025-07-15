@@ -3,7 +3,7 @@
     "website": "https://kyber.network",
     "description": "Kyber Network’s on-chain liquidity protocol allows decentralized token swaps to be integrated into any application, enabling value exchange to be performed seamlessly between all parties in the ecosystem.",
     "explorer": "https://arbiscan.io/token/0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "KNC",
     "decimals": 18,
     "status": "active",

@@ -1,6 +1,6 @@
 {
     "name": "Tether USD",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "USDT",
     "decimals": 6,
     "website": "https://tether.to/",

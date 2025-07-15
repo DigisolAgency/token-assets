@@ -1,6 +1,6 @@
 {
     "name": "Game7",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "G7",
     "decimals": 18,
     "description": "Game7 is a permissionless, modular Web3 gaming ecosystem designed to solve the most critical challenges for players and developers: infrastructure, distribution, and sustained player engagement.",

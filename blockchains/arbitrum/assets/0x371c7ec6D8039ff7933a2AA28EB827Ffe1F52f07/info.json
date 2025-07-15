@@ -1,7 +1,7 @@
 {
     "name": "JOE",
     "symbol": "JOE",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "decimals": 18,
     "description": "One-stop Decentralized Trading on Avalanche.",
     "website": "https://traderjoexyz.com/",

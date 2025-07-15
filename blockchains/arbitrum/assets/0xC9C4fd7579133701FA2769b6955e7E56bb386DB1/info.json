@@ -3,7 +3,7 @@
     "website": "https://bridge.link",
     "description": "Bridge Oracle System is a technology through which external data can be injected.",
     "explorer": "https://arbiscan.io/token/0xc9c4fd7579133701fa2769b6955e7e56bb386db1",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "BRG",
     "decimals": 18,
     "status": "active",

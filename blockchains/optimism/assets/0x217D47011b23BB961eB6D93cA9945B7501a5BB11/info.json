@@ -3,7 +3,7 @@
     "website": "https://thalesmarket.io/",
     "description": "Thales is an Ethereum protocol that allows the creation of peer-to-peer parimutuel markets that anyone can join. This building block is the foundation of novel on-chain initiatives, from a platform for AMM-based positional markets to immersive gamified experiences, and much more.",
     "explorer": "https://optimistic.etherscan.io/token/0x217d47011b23bb961eb6d93ca9945b7501a5bb11",
-    "type": "OPTIMISM",
+    "type": "ERC20",
     "symbol": "THALES",
     "decimals": 18,
     "status": "active",

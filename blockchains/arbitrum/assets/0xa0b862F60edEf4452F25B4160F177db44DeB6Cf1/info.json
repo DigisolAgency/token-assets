@@ -3,7 +3,7 @@
     "website": "https://gnosis.io",
     "description": "Gnosis is a decentralized prediction market built on the Ethereum protocol.",
     "explorer": "https://arbiscan.io/token/0xa0b862f60edef4452f25b4160f177db44deb6cf1",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "GNO",
     "decimals": 18,
     "status": "active",

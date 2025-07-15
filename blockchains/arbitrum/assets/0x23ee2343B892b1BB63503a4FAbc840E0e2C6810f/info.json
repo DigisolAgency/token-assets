@@ -1,6 +1,6 @@
 {
     "name": "Axelar",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "AXL",
     "decimals": 6,
     "website": "https://axelar.network/",

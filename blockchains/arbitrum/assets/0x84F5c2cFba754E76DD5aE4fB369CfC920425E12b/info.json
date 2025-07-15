@@ -1,7 +1,7 @@
 {
     "name": "Cryptex",
     "symbol": "CTX",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "decimals": 18,
     "description": "CTX is a governance token that powers and secures the Cryptex.Finance TCAP protocol.",
     "website": "https://cryptex.finance/",

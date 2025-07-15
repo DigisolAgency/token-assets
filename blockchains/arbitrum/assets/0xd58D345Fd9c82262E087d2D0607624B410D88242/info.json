@@ -3,7 +3,7 @@
     "website": "https://tellor.io",
     "description": "Tellor (a decentralized oracle) aims to address the Oracle problem on Ethereum.",
     "explorer": "https://arbiscan.io/token/0xd58D345Fd9c82262E087d2D0607624B410D88242",
-    "type": "ARBITRUM",
+    "type": "ERC20",
     "symbol": "TRB",
     "decimals": 18,
     "status": "active",
